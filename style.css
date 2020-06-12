@@ -1,0 +1,54 @@
+*{
+    background-color: #111517;
+}
+
+#PageTitle{
+    font-size: 250%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ff505e;
+}
+
+h1.SubTitle{
+    font-size: 250%;
+    color: #ff505e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+section{
+    position: relative;
+    top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    padding: 50px;
+    color: white;
+}
+
+.backgroundImage{
+position: fixed;
+height: 1000px;
+width: 2000px;
+top: 0;
+left:-20px;
+bottom: 0;
+}
+
+.ProfilePhoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #ff505e;
+}
+.FloatImage{
+    border: 5px solid #ff505e;
+    margin-left: 10px;
+    float: right;
+}
+
+p{
+    font-size: larger;
+}
+a.links{
+    color: #ff505e;
+}
