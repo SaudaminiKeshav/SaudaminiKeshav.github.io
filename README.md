@@ -2,7 +2,6 @@
 # Bio Page
 
 
-
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -15,40 +14,48 @@
 
 * [License](#license)
 
-#frdsc
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/SaudaminiKeshav/Responsive-Portfolio?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/SaudaminiKeshav/Responsive-Portfolio?style=flat&logo=appveyor)
+#undefined
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/undefined/undefined?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/undefined/undefined?style=flat&logo=appveyor)
   
   Check out the badges hosted by [shields.io](https://shields.io/).
   
   ## Description 
   
-  erwsfdc
+  undefined
 
   ## Installation
   
-  - Steps required to install project and how to get the development environment running:
+  Steps required to install project and how to get the development environment running:
   
-  fref
+  undefined
 
   ## Usage 
   
-  - Instructions and examples for use:
+  Instructions and examples for use:
   
-  fwe
+  undefined
 
    
   ## Contributing
   
-  - If you would like to contribute it, you can follow these guidelines for how to do so.
+  If you would like to contribute it, you can follow these guidelines for how to do so.
   
-  drew
+  undefined
 
   ## Tests
   
-  - Tests for application and how to run them:
+  Tests for application and how to run them:
   
-  ewrd
+  undefined
 
   ## License
   
-  Mozilla Public License 2.0
+  undefined
+
+  ## Questions?
+  
+  ![Developer Profile Picture](undefined) 
+  
+  For any questions, please contact me with the information below:
+ 
+  GitHub: [@undefined](undefined)
