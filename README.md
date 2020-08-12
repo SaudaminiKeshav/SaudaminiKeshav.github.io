@@ -28,6 +28,6 @@
   
   ## Installation
   
-  *Steps required to install project and how to get the development environment running:*
+  *Steps required to install project and how to get the development environment running:
   
   ferwf
